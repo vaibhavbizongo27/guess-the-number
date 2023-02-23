@@ -1,0 +1,20 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  max-width: 800px;
+  min-width: 450px;
+  width: 50%;
+  margin: 0 auto;
+  background-color: antiquewhite;
+}
+
+/* .container {
+    max-height: 800px;
+    border: 1px solid black;
+    max-width: 800px;
+    width: 500px;
+    height: 500px;
+    margin: 10px;
+    padding: 20px;
+    background-color: beige;
+  } */
